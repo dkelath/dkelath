@@ -1,6 +1,5 @@
 - Hi, I’m @dkelath
 - Currently a BSc student at the University of Melbourne 
-- I’m interested in biostatistics and neuroinformatics
 - Pronouns: he/him
 
 
